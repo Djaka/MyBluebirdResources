@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "MyBluebirdSDKResources",
-            path: "Sources/MyBluebirdSDKResources", // Path sesuai struktur
+            path: "compose-resources", // Path sesuai struktur
             resources: [
                 .process("composeResources") // Pastikan folder ini ada dalam path di atas
             ]
