@@ -4,12 +4,7 @@ import PackageDescription
 let package = Package(
     name: "MyBluebirdSDKResources",
     platforms: [.iOS(.v13)],
-    products: [
-        .library(
-            name: "MyBluebirdSDKResources",
-            targets: ["MyBluebirdSDKResources"]
-        ),
-    ],
+    products: [],
     dependencies: [],
     targets: [
         .target(
