@@ -4,14 +4,19 @@ import PackageDescription
 let package = Package(
     name: "MyBluebirdSDKResources",
     platforms: [.iOS(.v13)],
-    products: [],
+    products: [
+        .library(
+            name: "MyBluebirdSDKResources",
+            targets: ["MyBluebirdSDKResources"]
+        ),
+    ],
     dependencies: [],
     targets: [
         .target(
             name: "MyBluebirdSDKResources",
-            path: "compose-resources",
+            path: "Sources/MyBluebirdSDKResources", // Path sesuai struktur
             resources: [
-                .process("composeResources") // Menggunakan .process agar diproses sebagai resource bundle
+                .process("composeResources") // Pastikan folder ini ada dalam path di atas
             ]
         ),
     ]
