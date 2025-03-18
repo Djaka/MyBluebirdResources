@@ -1,0 +1,934 @@
+[
+  {
+    "key": "generic_hours",
+    "translation": "Jam"
+  },
+  {
+    "key": "generic_minutes",
+    "translation": "Menit"
+  },
+  {
+    "key": "search_area_city_description",
+    "translation": "Semua titik keberangkatan"
+  },
+  {
+    "key": "passenger",
+    "translation": "penumpang"
+  },
+  {
+    "key": "history_detail_title",
+    "translation": "Detail riwayat"
+  },
+  {
+    "key": "history_detail_order_id",
+    "translation": "Order ID"
+  },
+  {
+    "key": "history_status_widget_title",
+    "translation": "Dibayar dengan %PAYMENT%"
+  },
+  {
+    "key": "history_status_widget_status_success",
+    "translation": "Berhasil"
+  },
+  {
+    "key": "history_status_widget_status_failed",
+    "translation": "Dibatalkan"
+  },
+  {
+    "key": "history_status_widget_link",
+    "translation": "Lihat detail"
+  },
+  {
+    "key": "history_trip_widget_title",
+    "translation": "Shuttle"
+  },
+  {
+    "key": "history_trip_widget_status",
+    "translation": "%DISTANCE% km • %HOUR% jam %MINUTE% min"
+  },
+  {
+    "key": "history_trip_widget_label",
+    "translation": "Requested %DATE_TIME%"
+  },
+  {
+    "key": "history_trip_detail_widget_header_departure",
+    "translation": "Keberangkatan・%DATE_TIME%"
+  },
+  {
+    "key": "history_trip_detail_widget_header_arrival",
+    "translation": "Tujuan・%DATE_TIME%"
+  },
+  {
+    "key": "passenger_widget_seat",
+    "translation": "Kursi %SEAT_NUMBER%"
+  },
+  {
+    "key": "history_action_button_widget_share",
+    "translation": "Bagikan"
+  },
+  {
+    "key": "history_action_button_widget_reorder",
+    "translation": "Order lagi"
+  },
+  {
+    "key": "bottom_sheet_filter_title",
+    "translation": "Filter & urutkan"
+  },
+  {
+    "key": "bottom_sheet_filter_service_type_title",
+    "translation": "Tipe layanan"
+  },
+  {
+    "key": "bottom_sheet_filter_sort_title",
+    "translation": "Urutkan"
+  },
+  {
+    "key": "bottom_sheet_filter_departure_time_title",
+    "translation": "Waktu berangkat"
+  },
+  {
+    "key": "bottom_sheet_filter_left_button",
+    "translation": "Reset"
+  },
+  {
+    "key": "bottom_sheet_filter_right_button",
+    "translation": "Terapkan"
+  },
+  {
+    "key": "service_type_title",
+    "translation": "Tipe layanan"
+  },
+  {
+    "key": "service_type_all_service",
+    "translation": "Semua"
+  },
+  {
+    "key": "service_type_description",
+    "translation": "Cititrans menyediakan beberapa tipe layanan sesuai kebutuhanmu."
+  },
+  {
+    "key": "service_type_button",
+    "translation": "Oke, mengerti"
+  },
+  {
+    "key": "service_type_button_save",
+    "translation": "Simpan"
+  },
+  {
+    "key": "operation_area_title",
+    "translation": "Area operasi"
+  },
+  {
+    "key": "operation_area_description",
+    "translation": "Layanan Cititrans tersedia di area operasi berikut."
+  },
+  {
+    "key": "operation_area_button",
+    "translation": "Oke, mengerti"
+  },
+  {
+    "key": "passenger_option_title",
+    "translation": "Pilih jumlah penumpang"
+  },
+  {
+    "key": "passenger_option_note",
+    "translation": "*Anak di atas 4 tahun wajib membeli tiket."
+  },
+  {
+    "key": "passenger_option_button_save",
+    "translation": "Simpan"
+  },
+  {
+    "key": "contact_center_page_title",
+    "translation": "Pusat bantuan"
+  },
+  {
+    "key": "contact_center_page_helper",
+    "translation": "Butuh bantuan lebih lanjut?"
+  },
+  {
+    "key": "contact_center_page_action_button",
+    "translation": "Tanya Bebi"
+  },
+  {
+    "key": "contact_center_page_contact_title",
+    "translation": "Customer Service Response Center"
+  },
+  {
+    "key": "contact_center_page_contact_call_button",
+    "translation": "Hubungi"
+  },
+  {
+    "key": "contact_center_widget_title",
+    "translation": "Butuh bantuan?"
+  },
+  {
+    "key": "contact_center_widget_desc",
+    "translation": "Hubungi customer service kami terkait masalah yang kamu alami."
+  },
+  {
+    "key": "destination_point",
+    "translation": "Titik tujuan"
+  },
+  {
+    "key": "active_order_toolbar_title",
+    "translation": "Detail order"
+  },
+  {
+    "key": "active_order_toolbar_right_button",
+    "translation": "Bantuan"
+  },
+  {
+    "key": "active_order_status_text",
+    "translation": "Order dijadwalkan"
+  },
+  {
+    "key": "active_order_status_text_rescheduled",
+    "translation": "Order dijadwalkan ulang"
+  },
+  {
+    "key": "active_order_status_on_trip_text",
+    "translation": "Dalam perjalanan"
+  },
+  {
+    "key": "active_order_order_id",
+    "translation": "Order ID"
+  },
+  {
+    "key": "active_order_attachment_e_ticket",
+    "translation": "E-ticket"
+  },
+  {
+    "key": "active_order_attachment_invoice",
+    "translation": "Invoice"
+  },
+  {
+    "key": "active_order_ticket_schedule_desc",
+    "translation": "*Zona waktu mengikuti titik keberangkatan"
+  },
+  {
+    "key": "active_order_ticket_see_map",
+    "translation": "Lihat di peta"
+  },
+  {
+    "key": "active_order_ticket_info",
+    "translation": "Tiket akan dikirimkan ke email pemesan."
+  },
+  {
+    "key": "active_order_related_header",
+    "translation": "Jadwal yang berkaitan"
+  },
+  {
+    "key": "active_order_related_label_departure",
+    "translation": "Pergi"
+  },
+  {
+    "key": "active_order_related_label_return",
+    "translation": "Pulang"
+  },
+  {
+    "key": "active_order_related_action_button",
+    "translation": "Lihat detail"
+  },
+  {
+    "key": "active_order_passenger_detail_title",
+    "translation": "Detail penumpang"
+  },
+  {
+    "key": "active_order_reschedule_title",
+    "translation": "Ingin ubah jadwal keberangkatan?"
+  },
+  {
+    "key": "active_order_reschedule_desc",
+    "translation": "Perubahan jadwal & rute perjalanan max %TIME% sebelum keberangkatan."
+  },
+  {
+    "key": "active_order_reschedule_unavailable_desc",
+    "translation": "Pesanan ini sudah dijadwalkan ulang sebelumnya dan tidak dapat diubah lagi."
+  },
+  {
+    "key": "active_order_reschedule_link",
+    "translation": "Ubah jadwal"
+  },
+  {
+    "key": "active_order_delete_info",
+    "translation": "Reschedule"
+  },
+  {
+    "key": "active_order_cancel_info",
+    "translation": "Order dapat dibatalkan sampai dengan %TIME% sebelum keberangkatan."
+  },
+  {
+    "key": "active_order_cancel_button",
+    "translation": "Batalkan order"
+  },
+  {
+    "key": "departure_point",
+    "translation": "Titik keberangkatan"
+  },
+  {
+    "key": "departure_point_placeholder",
+    "translation": "Ketik nama titik keberangkatan"
+  },
+  {
+    "key": "destination_point_placeholder",
+    "translation": "Ketik nama titik tujuan"
+  },
+  {
+    "key": "schedule_list_unit",
+    "translation": "/kursi"
+  },
+  {
+    "key": "facility_remaining",
+    "translation": "+%COUNT%"
+  },
+  {
+    "key": "seat_remaining",
+    "translation": "Sisa %COUNT% kursi"
+  },
+  {
+    "key": "schedule_list_detail",
+    "translation": "Detail"
+  },
+  {
+    "key": "receipt_title",
+    "translation": "Detail tagihan"
+  },
+  {
+    "key": "receipt_order_id_title",
+    "translation": "Order ID: "
+  },
+  {
+    "key": "receipt_order_status_title_success",
+    "translation": "Pemesanan berhasil"
+  },
+  {
+    "key": "receipt_order_status_title_refund_processed",
+    "translation": "Refund diproses"
+  },
+  {
+    "key": "receipt_order_status_desc_refund",
+    "translation": "Dana dikembalikan senilai"
+  },
+  {
+    "key": "receipt_order_field_fare",
+    "translation": "Tarif"
+  },
+  {
+    "key": "receipt_order_field_platform_fee",
+    "translation": "Biaya platform"
+  },
+  {
+    "key": "receipt_order_field_cancellation_fee",
+    "translation": "Biaya pembatalan"
+  },
+  {
+    "key": "receipt_order_field_total",
+    "translation": "Total"
+  },
+  {
+    "key": "receipt_order_field_total_refund",
+    "translation": "Total refund"
+  },
+  {
+    "key": "receipt_order_field_refund_policy",
+    "translation": "Dana akan dikembalikan paling lambat 14 hari kerja."
+  },
+  {
+    "key": "receipt_order_transaction_title",
+    "translation": "Detail transaksi"
+  },
+  {
+    "key": "receipt_order_transaction_payment",
+    "translation": "Metode Pembayaran"
+  },
+  {
+    "key": "receipt_order_transaction_bank",
+    "translation": "Bank tujuan"
+  },
+  {
+    "key": "receipt_order_transaction_account_holder",
+    "translation": "Nama pemilik rekening"
+  },
+  {
+    "key": "receipt_order_transaction_date",
+    "translation": "Tanggal transaksi"
+  },
+  {
+    "key": "receipt_order_transaction_time",
+    "translation": "Waktu transaksi"
+  },
+  {
+    "key": "cancellation_reason_ui",
+    "translation": "Pilih alasan pembatalan"
+  },
+  {
+    "key": "refund_title",
+    "translation": "Batalkan order"
+  },
+  {
+    "key": "refund_card_title",
+    "translation": "Yakin membatalkan order?"
+  },
+  {
+    "key": "refund_card_description",
+    "translation": "Shuttle kamu telah siap untuk rencana perjalananmu."
+  },
+  {
+    "key": "refund_bank_form_title",
+    "translation": "Isi formulir refund"
+  },
+  {
+    "key": "refund_bank_form_hint_bank_name",
+    "translation": "Bank tujuan"
+  },
+  {
+    "key": "refund_bank_form_hint_account_number",
+    "translation": "Nomor rekening"
+  },
+  {
+    "key": "refund_bank_form_hint_account_name",
+    "translation": "Nama pemilik rekening"
+  },
+  {
+    "key": "refund_button_back",
+    "translation": "Kembali"
+  },
+  {
+    "key": "refund_tnc_full",
+    "translation": "Lihat kebijakan pembatalan & refund disini."
+  },
+  {
+    "key": "refund_tnc_bold",
+    "translation": "pembatalan & refund"
+  },
+  {
+    "key": "refund_tnc_link",
+    "translation": "disini"
+  },
+  {
+    "key": "refund_tnc_button",
+    "translation": "Oke, mengerti"
+  },
+  {
+    "key": "refund_tnc_button_error",
+    "translation": "Muat ulang"
+  },
+  {
+    "key": "refund_button_next",
+    "translation": "Yakin"
+  },
+  {
+    "key": "refund_success_message",
+    "translation": "Order berhasil dibatalkan."
+  },
+  {
+    "key": "refund_failed_message",
+    "translation": "Ordermu belum berhasil dibatalkan. \nSilakan coba lagi"
+  },
+  {
+    "key": "refund_make_sure_title",
+    "translation": "Yakin ingin membatalkan order?"
+  },
+  {
+    "key": "refund_make_sure_description",
+    "translation": "Kamu akan dikenakan biaya pembatalan sebesar %AMOUNT%."
+  },
+  {
+    "key": "refund_confirm_button",
+    "translation": "Yakin"
+  },
+  {
+    "key": "refund_timeout_title",
+    "translation": "Maaf, batas waktu pembatalan habis"
+  },
+  {
+    "key": "refund_timeout_description",
+    "translation": "Kamu sudah melewati batas maksimal pembatalan order yaitu 24 jam sebelum waktu keberangkatan."
+  },
+  {
+    "key": "refund_timeout_confirm_button",
+    "translation": "Oke, mengerti"
+  },
+  {
+    "key": "home_hint_departure",
+    "translation": "Keberangkatan"
+  },
+  {
+    "key": "home_hint_destination",
+    "translation": "Mau ke mana?"
+  },
+  {
+    "key": "home_hint_departure_date",
+    "translation": "Tanggal pergi"
+  },
+  {
+    "key": "home_hint_number_seat",
+    "translation": "Jumlah kursi"
+  },
+  {
+    "key": "home_hint_service_type",
+    "translation": "Tipe layanan (opsional)"
+  },
+  {
+    "key": "home_hint_round_trip",
+    "translation": "Pulang-pergi?"
+  },
+  {
+    "key": "home_button_search_ticket",
+    "translation": "Cari tiket"
+  },
+  {
+    "key": "home_button_search_ticket_reschedule",
+    "translation": "Cari tiket baru"
+  },
+  {
+    "key": "home_slider_title",
+    "translation": "Hai %NAME%,"
+  },
+  {
+    "key": "home_slider_description",
+    "translation": "Mari bepergian lebih nyaman dengan Cititrans"
+  },
+  {
+    "key": "refund_detail_title",
+    "translation": "Rincian refund"
+  },
+  {
+    "key": "refund_receiving_bank_title",
+    "translation": "Bank tujuan"
+  },
+  {
+    "key": "refund_account_number_title",
+    "translation": "Nomor rekening"
+  },
+  {
+    "key": "refund_account_name_title",
+    "translation": "Nama pemilik rekening"
+  },
+  {
+    "key": "refund_fare_title",
+    "translation": "Tarif"
+  },
+  {
+    "key": "refund_cancellation_fee_title",
+    "translation": "Biaya pembatalan"
+  },
+  {
+    "key": "refund_total_title",
+    "translation": "Total refund"
+  },
+  {
+    "key": "refund_note",
+    "translation": "Dana refund bisa diterima 14 hari setelah pembatalan order dan proses refund diajukan."
+  },
+  {
+    "key": "refund_detail_button_back",
+    "translation": "Periksa lagi"
+  },
+  {
+    "key": "refund_detail_button_next",
+    "translation": "Konfirmasi"
+  },
+  {
+    "key": "bottomsheet_choose_bank_title",
+    "translation": "Pilih bank tujuan"
+  },
+  {
+    "key": "bottomsheet_choose_bank_search_placeholder",
+    "translation": "Ketik nama bank"
+  },
+  {
+    "key": "create_order_title",
+    "translation": "Membuat pesananmu"
+  },
+  {
+    "key": "create_order_desc",
+    "translation": "Sedang diproses..."
+  },
+  {
+    "key": "create_order_cancel_button",
+    "translation": "Batalkan"
+  },
+  {
+    "key": "create_order_success_toast",
+    "translation": "Order berhasil dijadwalkan."
+  },
+  {
+    "key": "reschedule_order_success_toast",
+    "translation": "Order berhasil dijadwalkan ulang."
+  },
+  {
+    "key": "bottomsheet_order_failed_title",
+    "translation": "Order gagal terproses"
+  },
+  {
+    "key": "bottomsheet_order_failed_button_title",
+    "translation": "Lihat jadwal lainnya"
+  },
+  {
+    "key": "bottomsheet_order_expired_title",
+    "translation": "Maaf, waktu pemesanan sudah habis"
+  },
+  {
+    "key": "bottomsheet_order_expired_description",
+    "translation": "Kamu sudah melewati batas waktu untuk konfirmasi pesanan dalam 15 menit."
+  },
+  {
+    "key": "bottomsheet_order_expired_button_title",
+    "translation": "Pesan ulang"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_title",
+    "translation": "Pembayaran"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_tab_depart",
+    "translation": "Pergi"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_tab_return",
+    "translation": "Pulang"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_left_button",
+    "translation": "Batalkan order"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_right_button",
+    "translation": "Pesan & bayar"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_title",
+    "translation": "Yakin ingin membatalkan order?"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_desc",
+    "translation": "Semua data yang telah kamu isi sebelumnya akan terhapus."
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_left_button",
+    "translation": "Ya, batalkan"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_right_button",
+    "translation": "Lanjut order"
+  },
+  {
+    "key": "confirmation_payment_counter_title",
+    "translation": "Selesaikan pesanan dalam"
+  },
+  {
+    "key": "page_summary_title",
+    "translation": "Ringkasan"
+  },
+  {
+    "key": "page_summary_toolbar_button_title",
+    "translation": "Bantuan"
+  },
+  {
+    "key": "page_summary_toolbar_top_banner_title",
+    "translation": "Pastikan pesananmu sesuai sebelum melakukan pembayaran"
+  },
+  {
+    "key": "page_summary_service_footer_title",
+    "translation": "Harga"
+  },
+  {
+    "key": "page_summary_orderer_detail_title",
+    "translation": "Detail pemesan"
+  },
+  {
+    "key": "page_summary_passenger_detail_title",
+    "translation": "Detail penumpang"
+  },
+  {
+    "key": "page_summary_passenger_detail_toggle",
+    "translation": "Sama dengan detail pemesan"
+  },
+  {
+    "key": "page_summary_passenger_detail_name",
+    "translation": "Penumpang %NUMBER%"
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_full",
+    "translation": "Lihat kebijakan refund & reschedule disini."
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_bold",
+    "translation": "refund & reschedule"
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_link",
+    "translation": "disini"
+  },
+  {
+    "key": "page_summary_action_button",
+    "translation": "Lanjut pembayaran"
+  },
+  {
+    "key": "page_summary_action_button_reschedule",
+    "translation": "Konfirmasi perubahan jadwal"
+  },
+  {
+    "key": "service_detail_bottom_sheet_facility",
+    "translation": "Fasilitas"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_title_counting",
+    "translation": "Detail penumpang %NUMBER%"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_title",
+    "translation": "Titel"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_salutation_mr",
+    "translation": "Tuan"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_salutation_mrs",
+    "translation": "Nyonya/Nona"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_place_holder",
+    "translation": "Nama lengkap"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_support_text",
+    "translation": "Sesuai kartu identitas (cth: KTP, Passport)"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_save",
+    "translation": "Simpan"
+  },
+  {
+    "key": "change_schedule_note",
+    "translation": "Cititrans tersedia di area operasi tertentu."
+  },
+  {
+    "key": "change_schedule_title",
+    "translation": "Ubah jadwal"
+  },
+  {
+    "key": "change_schedule_apply",
+    "translation": "Terapkan"
+  },
+  {
+    "key": "bottomsheet_calendar_title_departure",
+    "translation": "Tanggal keberangkatan"
+  },
+  {
+    "key": "bottomsheet_calendar_title_reschedule",
+    "translation": "Pilih Tanggal baru"
+  },
+  {
+    "key": "bottomsheet_calendar_title_arrival",
+    "translation": "Tanggal kepulangan"
+  },
+  {
+    "key": "bottomsheet_calendar_departure_date_title",
+    "translation": "Tanggal keberangkatan"
+  },
+  {
+    "key": "bottomsheet_calendar_departure_date_placeholder",
+    "translation": "Pilih tanggal"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_title",
+    "translation": "Tanggal kepulangan"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_placeholder",
+    "translation": "Pilih tanggal"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_add",
+    "translation": "Tambah tanggal"
+  },
+  {
+    "key": "bottomsheet_calendar_save_button",
+    "translation": "Simpan"
+  },
+  {
+    "key": "unpaid_payment_detail_header",
+    "translation": "Detail pembayaran"
+  },
+  {
+    "key": "unpaid_payment_detail_title",
+    "translation": "Detail pembayaran"
+  },
+  {
+    "key": "unpaid_payment_detail_depart_fare",
+    "translation": "Tarif Pergi"
+  },
+  {
+    "key": "unpaid_payment_detail_fare",
+    "translation": "Tarif"
+  },
+  {
+    "key": "unpaid_payment_detail_return_fare",
+    "translation": "Tarif Pulang"
+  },
+  {
+    "key": "unpaid_payment_detail_original_fare",
+    "translation": "Tarif Awal"
+  },
+  {
+    "key": "unpaid_payment_detail_original_mark",
+    "translation": "(Lunas)"
+  },
+  {
+    "key": "unpaid_payment_detail_outstanding_fee",
+    "translation": "Kurang bayar"
+  },
+  {
+    "key": "unpaid_payment_detail_platform_fare",
+    "translation": "Biaya platform"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_title",
+    "translation": "Yakin menghapus detail riwayat ini?"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_desc",
+    "translation": "Kamu harus menghubungi customer service jika membutuhkan data ini kembali."
+  },
+  {
+    "key": "bottomsheet_delete_history_order_right_button",
+    "translation": "Ya, hapus"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_left_button",
+    "translation": "Batalkan"
+  },
+  {
+    "key": "page_schedule_toolbar_action",
+    "translation": "Ubah"
+  },
+  {
+    "key": "page_schedule_depart_indicator_title",
+    "translation": "Pilih jadwal pergi"
+  },
+  {
+    "key": "page_schedule_return_indicator_title",
+    "translation": "Pilih jadwal pulang"
+  },
+  {
+    "key": "page_schedule_depart_title",
+    "translation": "Pergi"
+  },
+  {
+    "key": "page_schedule_depart_link",
+    "translation": "Ubah"
+  },
+  {
+    "key": "page_schedule_depart_price_seat",
+    "translation": "/kursi"
+  },
+  {
+    "key": "page_choose_seat_toolbar_title",
+    "translation": "Pilih kursi"
+  },
+  {
+    "key": "page_choose_seat_depart_indicator_title",
+    "translation": "Pilih kursi pergi"
+  },
+  {
+    "key": "page_choose_seat_return_indicator_title",
+    "translation": "Pilih kursi pulang"
+  },
+  {
+    "key": "page_schedule_filter_chip_title",
+    "translation": "Filter"
+  },
+  {
+    "key": "page_schedule_filter_shelter_departure_chip_title",
+    "translation": "Titik keberangkatan"
+  },
+  {
+    "key": "page_schedule_filter_shelter_arrival_chip_title",
+    "translation": "Titik tujuan"
+  },
+  {
+    "key": "home_carousel_title",
+    "translation": "Hai %NAME%,"
+  },
+  {
+    "key": "home_carousel_title_reschedule",
+    "translation": "Atur ulang jadwal atau ubah rute perjalanan"
+  },
+  {
+    "key": "home_carousel_desc",
+    "translation": "Mari bepergian lebih nyaman dengan Cititrans"
+  },
+  {
+    "key": "home_area_departure_title",
+    "translation": "Keberangkatan"
+  },
+  {
+    "key": "home_area_arrival_title",
+    "translation": "Tujuan"
+  },
+  {
+    "key": "home_area_info_text",
+    "translation": "Layanan Cititrans terbatas hanya di area operasional"
+  },
+  {
+    "key": "home_schedule_depart_title",
+    "translation": "Tanggal berangkat"
+  },
+  {
+    "key": "home_schedule_round_trip_text",
+    "translation": "Pulang-pergi?"
+  },
+  {
+    "key": "home_schedule_return_title",
+    "translation": "Tanggal pulang"
+  },
+  {
+    "key": "home_passenger_field",
+    "translation": "Jumlah kursi"
+  },
+  {
+    "key": "home_service_field",
+    "translation": "Tipe layanan (opsional)"
+  },
+  {
+    "key": "home_action_button",
+    "translation": "Cari tiket"
+  },
+  {
+    "key": "home_area_last_search_title",
+    "translation": "Pencarian Terakhir"
+  },
+  {
+    "key": "home_area_last_search_item_title",
+    "translation": "%DEPARTURE_CITY% ⟶ %ARRIVAL_CITY%"
+  },
+  {
+    "key": "home_area_last_search_item_round_trip_title",
+    "translation": "%DEPARTURE_CITY% ⇆ %ARRIVAL_CITY%"
+  },
+  {
+    "key": "home_area_last_search_item_desc",
+    "translation": "%TOTAL_PASSENGER% pax • %SERVICE_TYPE%"
+  },
+  {
+    "key": "home_area_last_search_item_total_passenger",
+    "translation": "%TOTAL_PASSENGER% pax"
+  },
+  {
+    "key": "schedule_empty_title",
+    "translation": "Jadwal tidak ditemukan"
+  },
+  {
+    "key": "schedule_empty_desc",
+    "translation": "Silakan ubah filter untuk melihat jadwal lainnya"
+  },
+  {
+    "key": "schedule_empty_button",
+    "translation": "Ubah filter"
+  }
+]

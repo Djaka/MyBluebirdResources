@@ -1,0 +1,34 @@
+[
+  {
+    "key": "modal_hourly_picker_title",
+    "translation": "Pilih durasi sewa"
+  },
+  {
+    "key": "modal_hourly_picker_tab_hour_title",
+    "translation": "Per Jam"
+  },
+  {
+    "key": "modal_hourly_picker_tab_day_title",
+    "translation": "Harian"
+  },
+  {
+    "key": "modal_hourly_picker_max_hour_available",
+    "translation": "Durasi sewa per hari maksimal %MAX_HOUR% jam."
+  },
+  {
+    "key": "modal_hourly_picker_item",
+    "translation": "%HOUR% jam"
+  },
+  {
+    "key": "modal_hourly_picker_gb_min_rent_warning",
+    "translation": "Khusus Goldenbird tujuan bandara, minimal sewa %HOUR% jam"
+  },
+  {
+    "key": "modal_hourly_picker_gb_min_rent_warning",
+    "translation": "Khusus Goldenbird tujuan bandara, minimal sewa %HOUR% jam"
+  },
+  {
+    "key": "modal_hourly_picker_save_button",
+    "translation": "Simpan"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "key": "generic_empty",
+    "translation": ""
+  },
+  {
+    "key": "generic_language_english",
+    "translation": "Inggris"
+  },
+  {
+    "key": "generic_language_indonesia",
+    "translation": "Indonesia"
+  },
+  {
+    "key": "change_language_title",
+    "translation": "Pilih kode negara"
+  },
+  {
+    "key": "overtime_fee_widget_title",
+    "translation": "Perpanjang durasi sewa"
+  },
+  {
+    "key": "overtime_fee_widget_desc",
+    "translation": "Kamu dapat mengajukan perpanjangan waktu kepada pengemudi ketika durasi sewa habis."
+  },
+  {
+    "key": "nearby_places_widget_title",
+    "translation": "Lokasi terdekat"
+  },
+  {
+    "key": "order_failed_widget_title",
+    "translation": "Belum berhasil memuat data"
+  },
+  {
+    "key": "order_failed_widget_desc",
+    "translation": "Silakan muat ulang untuk menampilkan data order"
+  },
+  {
+    "key": "order_failed_widget_refresh_button",
+    "translation": "Muat ulang"
+  },
+  {
+    "key": "order_active_empty_widget_title",
+    "translation": "Kamu tidak memiliki order aktif.\nYuk buat order baru!"
+  },
+  {
+    "key": "order_active_empty_widget_action_button",
+    "translation": "Order sekarang"
+  },
+  {
+    "key": "order_schedule_empty_widget_title",
+    "translation": "Kamu belum menjadwalkan\norder apapun."
+  },
+  {
+    "key": "order_schedule_empty_widget_action_button",
+    "translation": "Jadwalkan"
+  },
+  {
+    "key": "order_history_empty_widget_title",
+    "translation": "Kamu belum pernah membuat \norder apapun."
+  },
+  {
+    "key": "order_history_empty_widget_action_button",
+    "translation": "Order sekarang"
+  },
+  {
+    "key": "active_order_card_header_schedule",
+    "translation": "Dijadwalkan・%PICKUP_DATE_TIME%"
+  },
+  {
+    "key": "active_order_card_header_schedule_today",
+    "translation": "Dijadwalkan・Hari Ini, %PICKUP_TIME%"
+  },
+  {
+    "key": "active_order_card_header_finding_driver",
+    "translation": "Mencari pengemudi terdekat"
+  },
+  {
+    "key": "active_order_card_header_driver_assigned",
+    "translation": "Dapat pengemudi • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_on_the_way",
+    "translation": "Pengemudi ke lokasimu • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_driver_arrived",
+    "translation": "Pengemudi sampai • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_on_trip",
+    "translation": "Menuju lokasi tujuan"
+  },
+  {
+    "key": "active_order_card_header_on_trip_delivery",
+    "translation": "Menuju alamat pengiriman"
+  },
+  {
+    "key": "active_order_card_title_on_trip",
+    "translation": "Nikmati perjalanan kamu~"
+  },
+  {
+    "key": "active_order_card_desc_finding_driver",
+    "translation": "Harap tunggu beberapa saat..."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way",
+    "translation": "Silakan tunggu di lokasi jemput."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way_delivery",
+    "translation": "Pastikan paket telah siap diambil."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way",
+    "translation": "Pengemudi sudah di lokasi jemput"
+  },
+  {
+    "key": "active_order_card_desc_on_the_way_delivery",
+    "translation": "Pengemudi sudah di lokasi paket"
+  },
+  {
+    "key": "active_order_card_desc_on_trip",
+    "translation": "Semoga selamat sampai tujuan ☺\uFE0F"
+  },
+  {
+    "key": "active_order_card_desc_on_trip_delivery",
+    "translation": "Lacak paket kamu di sini \uD83D\uDD0D"
+  },
+  {
+    "key": "active_order_card_call_button",
+    "translation": "Telepon"
+  },
+  {
+    "key": "active_order_card_chat_button",
+    "translation": "Chat"
+  },
+  {
+    "key": "active_order_card_share_trip_button",
+    "translation": "Bagikan live tracking"
+  },
+  {
+    "key": "active_order_card_link_see_details",
+    "translation": "Lihat detail"
+  },
+  {
+    "key": "history_order_card_header_payment_failed",
+    "translation": "Pembayaran gagal"
+  },
+  {
+    "key": "history_order_card_header_cancelled",
+    "translation": "Dibatalkan"
+  },
+  {
+    "key": "history_order_card_title_to",
+    "translation": "%CATEGORY% ke %DROP_OFF%"
+  },
+  {
+    "key": "history_order_card_title_from",
+    "translation": "%CATEGORY% dari %PICKUP%"
+  },
+  {
+    "key": "history_outstanding_message",
+    "translation": "Harap selesaikan pembayaranmu."
+  },
+  {
+    "key": "home_active_order_title",
+    "translation": "Order aktif"
+  },
+  {
+    "key": "home_active_order_title_more_than_one",
+    "translation": "Order aktif (%ORDER_TOTAL%)"
+  },
+  {
+    "key": "home_active_order_more_link",
+    "translation": "Lihat semua"
+  },
+  {
+    "key": "history_trip_widget_title",
+    "translation": "Shuttle"
+  }
+]

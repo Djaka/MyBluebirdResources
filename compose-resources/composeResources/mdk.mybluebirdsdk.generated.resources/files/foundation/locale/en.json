@@ -1,0 +1,178 @@
+[
+  {
+    "key": "generic_language_english",
+    "translation": "English"
+  },
+  {
+    "key": "generic_language_indonesia",
+    "translation": "Indonesia"
+  },
+  {
+    "key": "change_language_title",
+    "translation": "Choose country code"
+  },
+  {
+    "key": "overtime_fee_widget_title",
+    "translation": "Extend rent duration"
+  },
+  {
+    "key": "overtime_fee_widget_desc",
+    "translation": "You can request a time extension from the driver when the rent duration runs out."
+  },
+  {
+    "key": "nearby_places_widget_title",
+    "translation": "Nearby locations"
+  },
+  {
+    "key": "order_failed_widget_title",
+    "translation": "Belum berhasil memuat data"
+  },
+  {
+    "key": "order_failed_widget_desc",
+    "translation": "Silakan muat ulang untuk menampilkan data order"
+  },
+  {
+    "key": "order_failed_widget_refresh_button",
+    "translation": "Muat ulang"
+  },
+  {
+    "key": "order_active_empty_widget_title",
+    "translation": "You don’t have an active order.\nLet's make a new order!"
+  },
+  {
+    "key": "order_active_empty_widget_action_button",
+    "translation": "Order sekarang"
+  },
+  {
+    "key": "order_schedule_empty_widget_title",
+    "translation": "You haven't scheduled\nany orders."
+  },
+  {
+    "key": "order_schedule_empty_widget_action_button",
+    "translation": "Schedule"
+  },
+  {
+    "key": "order_history_empty_widget_title",
+    "translation": "You've never made any orders."
+  },
+  {
+    "key": "order_history_empty_widget_action_button",
+    "translation": "Order now"
+  },
+  {
+    "key": "active_order_card_header_schedule",
+    "translation": "Scheduled・%PICKUP_DATE_TIME%"
+  },
+  {
+    "key": "active_order_card_header_schedule_today",
+    "translation": "Scheduled・Today, %PICKUP_TIME%"
+  },
+  {
+    "key": "active_order_card_header_finding_driver",
+    "translation": "Finding nearest driver"
+  },
+  {
+    "key": "active_order_card_header_driver_assigned",
+    "translation": "Driver found • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_on_the_way",
+    "translation": "Driver is on the way • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_driver_arrived",
+    "translation": "Driver arrived • %CAR_NUMBER%"
+  },
+  {
+    "key": "active_order_card_header_on_trip",
+    "translation": "Ongoing trip"
+  },
+  {
+    "key": "active_order_card_header_on_trip_delivery",
+    "translation": "Delivering your package"
+  },
+  {
+    "key": "active_order_card_title_on_trip",
+    "translation": "Enjoy your trip~"
+  },
+  {
+    "key": "active_order_card_desc_finding_driver",
+    "translation": "Please wait for a while..."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way",
+    "translation": "Please be ready at the pick up location."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way_delivery",
+    "translation": "Make sure your package is ready."
+  },
+  {
+    "key": "active_order_card_desc_on_the_way",
+    "translation": "Driver is at the pick up location"
+  },
+  {
+    "key": "active_order_card_desc_on_the_way_delivery",
+    "translation": "Driver is at the pick up location."
+  },
+  {
+    "key": "active_order_card_desc_on_trip",
+    "translation": "Have a safe trip ☺\uFE0F"
+  },
+  {
+    "key": "active_order_card_desc_on_trip_delivery",
+    "translation": "Track your order here \uD83D\uDD0D"
+  },
+  {
+    "key": "active_order_card_call_button",
+    "translation": "Call"
+  },
+  {
+    "key": "active_order_card_chat_button",
+    "translation": "Chat"
+  },
+  {
+    "key": "active_order_card_share_trip_button",
+    "translation": "Share live tracking"
+  },
+  {
+    "key": "active_order_card_link_see_details",
+    "translation": "See detail"
+  },
+  {
+    "key": "history_order_card_header_payment_failed",
+    "translation": "Outstanding payment"
+  },
+  {
+    "key": "history_order_card_header_cancelled",
+    "translation": "Cancelled"
+  },
+  {
+    "key": "history_order_card_title_to",
+    "translation": "%CATEGORY% to %DROP_OFF%"
+  },
+  {
+    "key": "history_order_card_title_from",
+    "translation": "%CATEGORY% from %PICKUP%"
+  },
+  {
+    "key": "history_outstanding_message",
+    "translation": "Please finish your outstanding payment."
+  },
+  {
+    "key": "home_active_order_title",
+    "translation": "Active order"
+  },
+  {
+    "key": "home_active_order_title_more_than_one",
+    "translation": "Active order (%ORDER_TOTAL%)"
+  },
+  {
+    "key": "home_active_order_more_link",
+    "translation": "See all"
+  },
+  {
+    "key": "history_trip_widget_title",
+    "translation": "Shuttle"
+  }
+]

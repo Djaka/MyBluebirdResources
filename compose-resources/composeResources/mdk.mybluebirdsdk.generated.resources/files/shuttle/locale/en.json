@@ -1,0 +1,930 @@
+[
+  {
+    "key": "generic_hours",
+    "translation": "Hours"
+  },
+  {
+    "key": "generic_minutes",
+    "translation": "Minutes"
+  },
+  {
+    "key": "search_area_city_description",
+    "translation": "All departure point"
+  },
+  {
+    "key": "passenger",
+    "translation": "passenger"
+  },
+  {
+    "key": "history_detail_title",
+    "translation": "History detail"
+  },
+  {
+    "key": "history_detail_order_id",
+    "translation": "Order ID"
+  },
+  {
+    "key": "history_status_widget_title",
+    "translation": "Paid with %PAYMENT%"
+  },
+  {
+    "key": "history_status_widget_status_success",
+    "translation": "Success"
+  },
+  {
+    "key": "history_status_widget_link",
+    "translation": "See detail"
+  },
+  {
+    "key": "history_trip_widget_title",
+    "translation": "Shuttle"
+  },
+  {
+    "key": "history_trip_widget_status",
+    "translation": "%DISTANCE% km • %HOUR% hr %MINUTE% min"
+  },
+  {
+    "key": "history_trip_widget_label",
+    "translation": "Requested %DATE_TIME%"
+  },
+  {
+    "key": "history_trip_detail_widget_header_departure",
+    "translation": "Departure・%DATE_TIME%"
+  },
+  {
+    "key": "history_trip_detail_widget_header_arrival",
+    "translation": "Destination・%DATE_TIME%"
+  },
+  {
+    "key": "passenger_widget_seat",
+    "translation": "Seat %SEAT_NUMBER%"
+  },
+  {
+    "key": "history_action_button_widget_share",
+    "translation": "Share"
+  },
+  {
+    "key": "history_action_button_widget_reorder",
+    "translation": "Re-order"
+  },
+  {
+    "key": "bottom_sheet_filter_title",
+    "translation": "Filter & sort"
+  },
+  {
+    "key": "bottom_sheet_filter_service_type_title",
+    "translation": "Service type"
+  },
+  {
+    "key": "bottom_sheet_filter_sort_title",
+    "translation": "Sort"
+  },
+  {
+    "key": "bottom_sheet_filter_departure_time_title",
+    "translation": "Departure time"
+  },
+  {
+    "key": "bottom_sheet_filter_left_button",
+    "translation": "Reset"
+  },
+  {
+    "key": "bottom_sheet_filter_right_button",
+    "translation": "Apply"
+  },
+  {
+    "key": "service_type_title",
+    "translation": "Service type"
+  },
+  {
+    "key": "service_type_all_service",
+    "translation": "All"
+  },
+  {
+    "key": "service_type_description",
+    "translation": "Cititrans provides several types of services according to your needs."
+  },
+  {
+    "key": "service_type_button",
+    "translation": "Understand"
+  },
+  {
+    "key": "service_type_button_save",
+    "translation": "Save"
+  },
+  {
+    "key": "operation_area_title",
+    "translation": "Operation area"
+  },
+  {
+    "key": "operation_area_description",
+    "translation": "Cititrans services are available in the following operating areas."
+  },
+  {
+    "key": "operation_area_button",
+    "translation": "Understand"
+  },
+  {
+    "key": "passenger_option_title",
+    "translation": "Select the number of passengers"
+  },
+  {
+    "key": "passenger_option_note",
+    "translation": "*Children over 4 years old are required to purchase a ticket."
+  },
+  {
+    "key": "passenger_option_button_save",
+    "translation": "Save"
+  },
+  {
+    "key": "contact_center_page_title",
+    "translation": "Customer service"
+  },
+  {
+    "key": "contact_center_page_helper",
+    "translation": "Need more help?"
+  },
+  {
+    "key": "contact_center_page_action_button",
+    "translation": "Ask Bebi"
+  },
+  {
+    "key": "contact_center_page_contact_title",
+    "translation": "Customer Service Response Center"
+  },
+  {
+    "key": "contact_center_page_contact_call_button",
+    "translation": "Call"
+  },
+  {
+    "key": "contact_center_widget_title",
+    "translation": "Need help?"
+  },
+  {
+    "key": "contact_center_widget_desc",
+    "translation": "Contact our customer service regarding the problem you are experiencing."
+  },
+  {
+    "key": "active_order_toolbar_title",
+    "translation": "Detail order"
+  },
+  {
+    "key": "active_order_toolbar_right_button",
+    "translation": "Help"
+  },
+  {
+    "key": "active_order_status_text",
+    "translation": "Order Scheduled "
+  },
+  {
+    "key": "active_order_status_text_rescheduled",
+    "translation": "Order Re-Scheduled"
+  },
+  {
+    "key": "active_order_status_on_trip_text",
+    "translation": "On trip"
+  },
+  {
+    "key": "active_order_order_id",
+    "translation": "Order ID"
+  },
+  {
+    "key": "active_order_attachment_e_ticket",
+    "translation": "E-ticket"
+  },
+  {
+    "key": "active_order_attachment_invoice",
+    "translation": "Invoice"
+  },
+  {
+    "key": "active_order_ticket_schedule_desc",
+    "translation": "*Time zone is based on the pick-up location"
+  },
+  {
+    "key": "active_order_ticket_see_map",
+    "translation": "See map"
+  },
+  {
+    "key": "active_order_ticket_info",
+    "translation": "The ticket will be sent to the customer's email."
+  },
+  {
+    "key": "active_order_related_header",
+    "translation": "Related schedule"
+  },
+  {
+    "key": "active_order_related_label_departure",
+    "translation": "Departure"
+  },
+  {
+    "key": "active_order_related_label_return",
+    "translation": "Return"
+  },
+  {
+    "key": "active_order_related_action_button",
+    "translation": "See detail"
+  },
+  {
+    "key": "active_order_passenger_detail_title",
+    "translation": "Passenger detail"
+  },
+  {
+    "key": "active_order_reschedule_title",
+    "translation": "Want to change your schedule?"
+  },
+  {
+    "key": "active_order_reschedule_desc",
+    "translation": "Changes to schedule & travel route max %TIME% before departure."
+  },
+  {
+    "key": "active_order_reschedule_unavailable_desc",
+    "translation": "This order has already been rescheduled and cannot be changed again."
+  },
+  {
+    "key": "active_order_reschedule_link",
+    "translation": "Reschedule"
+  },
+  {
+    "key": "active_order_delete_info",
+    "translation": "Reschedule"
+  },
+  {
+    "key": "active_order_cancel_info",
+    "translation": "You can cancel the order up to %TIME% before departure."
+  },
+  {
+    "key": "active_order_cancel_button",
+    "translation": "Cancel order"
+  },
+  {
+    "key": "destination_point",
+    "translation": "Destination points"
+  },
+  {
+    "key": "departure_point",
+    "translation": "Departure points"
+  },
+  {
+    "key": "departure_point_placeholder",
+    "translation": "Enter departure point name"
+  },
+  {
+    "key": "destination_point_placeholder",
+    "translation": "Enter destination point name"
+  },
+  {
+    "key": "schedule_list_unit",
+    "translation": "/seat"
+  },
+  {
+    "key": "facility_remaining",
+    "translation": "+%COUNT%"
+  },
+  {
+    "key": "seat_remaining",
+    "translation": "%COUNT% seat remaining"
+  },
+  {
+    "key": "schedule_list_detail",
+    "translation": "Detail"
+  },
+  {
+    "key": "receipt_title",
+    "translation": "Billing details"
+  },
+  {
+    "key": "receipt_order_id_title",
+    "translation": "Order ID: "
+  },
+  {
+    "key": "receipt_order_status_title_success",
+    "translation": "Success booked"
+  },
+  {
+    "key": "receipt_order_status_title_refund_processed",
+    "translation": "Refund accepted"
+  },
+  {
+    "key": "receipt_order_status_desc_refund",
+    "translation": "You wil receive a refund of"
+  },
+  {
+    "key": "receipt_order_field_fare",
+    "translation": "Fare"
+  },
+  {
+    "key": "receipt_order_field_platform_fee",
+    "translation": "Platform fee"
+  },
+  {
+    "key": "receipt_order_field_cancellation_fee",
+    "translation": "Cancellation fee"
+  },
+  {
+    "key": "receipt_order_field_total",
+    "translation": "Total"
+  },
+  {
+    "key": "receipt_order_field_total_refund",
+    "translation": "Total refund"
+  },
+  {
+    "key": "receipt_order_field_refund_policy",
+    "translation": "Refunds may take up to 14 working days to be processed."
+  },
+  {
+    "key": "receipt_order_transaction_title",
+    "translation": "Transaction detail"
+  },
+  {
+    "key": "receipt_order_transaction_payment",
+    "translation": "Payment method"
+  },
+  {
+    "key": "receipt_order_transaction_bank",
+    "translation": "Receiving bank"
+  },
+  {
+    "key": "receipt_order_transaction_account_holder",
+    "translation": "Account holder name"
+  },
+  {
+    "key": "receipt_order_transaction_date",
+    "translation": "Transaction date"
+  },
+  {
+    "key": "receipt_order_transaction_time",
+    "translation": "Transaction time"
+  },
+  {
+    "key": "cancellation_reason_ui",
+    "translation": "Choose cancellation reason"
+  },
+  {
+    "key": "refund_title",
+    "translation": "Cancel order"
+  },
+  {
+    "key": "refund_card_title",
+    "translation": "Are you sure you want to cancel?"
+  },
+  {
+    "key": "refund_card_description",
+    "translation": "Your shuttle is ready for your trip plan."
+  },
+  {
+    "key": "refund_bank_form_title",
+    "translation": "Fill in the refund form"
+  },
+  {
+    "key": "refund_bank_form_hint_bank_name",
+    "translation": "Receiving bank"
+  },
+  {
+    "key": "refund_bank_form_hint_account_number",
+    "translation": "Account number"
+  },
+  {
+    "key": "refund_bank_form_hint_account_name",
+    "translation": "Account holder name"
+  },
+  {
+    "key": "refund_button_back",
+    "translation": "Back"
+  },
+  {
+    "key": "refund_button_next",
+    "translation": "Confirm"
+  },
+  {
+    "key": "refund_tnc_full",
+    "translation": "See cancellation & refund policy here."
+  },
+  {
+    "key": "refund_tnc_bold",
+    "translation": "cancellation & refund"
+  },
+  {
+    "key": "refund_tnc_link",
+    "translation": "here"
+  },
+  {
+    "key": "refund_tnc_button",
+    "translation": "Okay, understand"
+  },
+  {
+    "key": "refund_tnc_button_error",
+    "translation": "Reload"
+  },
+  {
+    "key": "refund_success_message",
+    "translation": "Success cancelled order."
+  },
+  {
+    "key": "refund_failed_message",
+    "translation": "Your order cancellation was not successful. Please try again"
+  },
+  {
+    "key": "refund_make_sure_title",
+    "translation": "Are you sure you want to cancel?"
+  },
+  {
+    "key": "refund_make_sure_description",
+    "translation": "You'll be charged a %AMOUNT% cancellation fee."
+  },
+  {
+    "key": "refund_confirm_button",
+    "translation": "Confirm"
+  },
+  {
+    "key": "refund_timeout_title",
+    "translation": "Sorry, cancellation deadline has passed."
+  },
+  {
+    "key": "refund_timeout_description",
+    "translation": "You have exceeded the maximum cancellation period, which is 24 hours before the departure time."
+  },
+  {
+    "key": "refund_timeout_confirm_button",
+    "translation": "Ok, understand"
+  },
+  {
+    "key": "home_hint_departure",
+    "translation": "Departure"
+  },
+  {
+    "key": "home_hint_destination",
+    "translation": "Where to go?"
+  },
+  {
+    "key": "home_hint_departure_date",
+    "translation": "Departure date"
+  },
+  {
+    "key": "home_hint_number_seat",
+    "translation": "Number of seats"
+  },
+  {
+    "key": "home_hint_service_type",
+    "translation": "Service type (optional)"
+  },
+  {
+    "key": "home_hint_round_trip",
+    "translation": "Round trip?"
+  },
+  {
+    "key": "home_button_search_ticket",
+    "translation": "Search ticket"
+  },
+  {
+    "key": "home_button_search_ticket_reschedule",
+    "translation": "Search new ticket"
+  },
+  {
+    "key": "home_slider_title",
+    "translation": "Hi %NAME%,"
+  },
+  {
+    "key": "home_slider_description",
+    "translation": "Let's travel more comfortably with Cititrans"
+  },
+  {
+    "key": "refund_detail_title",
+    "translation": "Refund detail"
+  },
+  {
+    "key": "refund_receiving_bank_title",
+    "translation": "Receiving bank"
+  },
+  {
+    "key": "refund_account_number_title",
+    "translation": "Account number"
+  },
+  {
+    "key": "refund_account_name_title",
+    "translation": "Account holder name"
+  },
+  {
+    "key": "refund_fare_title",
+    "translation": "Fare"
+  },
+  {
+    "key": "refund_cancellation_fee_title",
+    "translation": "Cancellation fee"
+  },
+  {
+    "key": "refund_total_title",
+    "translation": "Refund total"
+  },
+  {
+    "key": "refund_note",
+    "translation": "Refunds may take up to 14 days to be processed after order cancellation and submission of the refund request."
+  },
+  {
+    "key": "refund_detail_button_back",
+    "translation": "Review again"
+  },
+  {
+    "key": "refund_detail_button_next",
+    "translation": "Confirm"
+  },
+  {
+    "key": "bottomsheet_choose_bank_title",
+    "translation": "Select bank"
+  },
+  {
+    "key": "bottomsheet_choose_bank_search_placeholder",
+    "translation": "Type bank name"
+  },
+  {
+    "key": "create_order_title",
+    "translation": "Creating your order"
+  },
+  {
+    "key": "create_order_desc",
+    "translation": "Processing..."
+  },
+  {
+    "key": "create_order_cancel_button",
+    "translation": "Cancel"
+  },
+  {
+    "key": "create_order_success_toast",
+    "translation": "Order successfully scheduled."
+  },
+  {
+    "key": "reschedule_order_success_toast",
+    "translation": "Order berhasil dijadwalkan ulang."
+  },
+  {
+    "key": "bottomsheet_order_failed_title",
+    "translation": "Order processing failed"
+  },
+  {
+    "key": "bottomsheet_order_failed_button_title",
+    "translation": "Check other schedules"
+  },
+  {
+    "key": "bottomsheet_order_expired_title",
+    "translation": "Sorry, booking time has run out"
+  },
+  {
+    "key": "bottomsheet_order_expired_description",
+    "translation": "You have passed the deadline for order confirmation within 15 minutes."
+  },
+  {
+    "key": "bottomsheet_order_expired_button_title",
+    "translation": "Re-order"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_title",
+    "translation": "Payment"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_tab_depart",
+    "translation": "Departure"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_tab_return",
+    "translation": "Return"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_left_button",
+    "translation": "Cancel order"
+  },
+  {
+    "key": "page_shuttle_confirmation_payment_right_button",
+    "translation": "Order & pay"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_title",
+    "translation": "Are you sure you want to cancel order?"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_desc",
+    "translation": "All data you have previously entered will be deleted."
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_left_button",
+    "translation": "Yes, cancel"
+  },
+  {
+    "key": "bottomsheet_cancel_order_confirmation_right_button",
+    "translation": "Continue order"
+  },
+  {
+    "key": "confirmation_payment_counter_title",
+    "translation": "Complete your order within"
+  },
+  {
+    "key": "page_summary_title",
+    "translation": "Summary"
+  },
+  {
+    "key": "page_summary_toolbar_button_title",
+    "translation": "Help"
+  },
+  {
+    "key": "page_summary_toolbar_top_banner_title",
+    "translation": "Make sure all the information is correct before making payment"
+  },
+  {
+    "key": "page_summary_service_footer_title",
+    "translation": "Price"
+  },
+  {
+    "key": "page_summary_orderer_detail_title",
+    "translation": "Order detail"
+  },
+  {
+    "key": "page_summary_passenger_detail_title",
+    "translation": "Passenger detail"
+  },
+  {
+    "key": "page_summary_passenger_detail_toggle",
+    "translation": "Same as booking details"
+  },
+  {
+    "key": "page_summary_passenger_detail_name",
+    "translation": "Passenger %NUMBER%"
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_full",
+    "translation": "See refund & reschedule policy here."
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_bold",
+    "translation": "refund & reschedule"
+  },
+  {
+    "key": "page_summary_refund_schedule_policy_title_link",
+    "translation": "here"
+  },
+  {
+    "key": "page_summary_action_button",
+    "translation": "Continue to payment"
+  },
+  {
+    "key": "page_summary_action_button_reschedule",
+    "translation": "Confirm reschedule"
+  },
+  {
+    "key": "service_detail_bottom_sheet_facility",
+    "translation": "Facilities"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_title_counting",
+    "translation": "Passenger %NUMBER% details"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_title",
+    "translation": "Title"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_salutation_mr",
+    "translation": "Mr"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_salutation_mrs",
+    "translation": "Mrs/Ms"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_place_holder",
+    "translation": "Full name"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_support_text",
+    "translation": "According to the identification card (e.g., ID card, passport)"
+  },
+  {
+    "key": "bottomsheet_passenger_detail_save",
+    "translation": "Save"
+  },
+  {
+    "key": "change_schedule_note",
+    "translation": "Cititrans operates in specific areas."
+  },
+  {
+    "key": "change_schedule_title",
+    "translation": "Change schedule"
+  },
+  {
+    "key": "change_schedule_apply",
+    "translation": "Apply"
+  },
+  {
+    "key": "bottomsheet_calendar_title_departure",
+    "translation": "Departure date"
+  },
+  {
+    "key": "bottomsheet_calendar_title_reschedule",
+    "translation": "Choose new schedule"
+  },
+  {
+    "key": "bottomsheet_calendar_title_arrival",
+    "translation": "Return date"
+  },
+  {
+    "key": "bottomsheet_calendar_departure_date_title",
+    "translation": "Departure date"
+  },
+  {
+    "key": "bottomsheet_calendar_departure_date_placeholder",
+    "translation": "Choose date"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_title",
+    "translation": "Return date"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_placeholder",
+    "translation": "Choose date"
+  },
+  {
+    "key": "bottomsheet_calendar_arrival_date_add",
+    "translation": "Add date"
+  },
+  {
+    "key": "bottomsheet_calendar_save_button",
+    "translation": "Save"
+  },
+  {
+    "key": "unpaid_payment_detail_header",
+    "translation": "Payment detail"
+  },
+  {
+    "key": "unpaid_payment_detail_title",
+    "translation": "Payment detail"
+  },
+  {
+    "key": "unpaid_payment_detail_depart_fare",
+    "translation": "Departure fare"
+  },
+  {
+    "key": "unpaid_payment_detail_fare",
+    "translation": "Fare"
+  },
+  {
+    "key": "unpaid_payment_detail_return_fare",
+    "translation": "Return fare"
+  },
+  {
+    "key": "unpaid_payment_detail_original_fare",
+    "translation": "Initial price"
+  },
+  {
+    "key": "unpaid_payment_detail_original_mark",
+    "translation": "(Paid)"
+  },
+  {
+    "key": "unpaid_payment_detail_outstanding_fee",
+    "translation": "Outstanding"
+  },
+  {
+    "key": "unpaid_payment_detail_platform_fare",
+    "translation": "Platform fee"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_title",
+    "translation": "Delete this history detail?"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_desc",
+    "translation": "You have to contact customer service to get this data back."
+  },
+  {
+    "key": "bottomsheet_delete_history_order_right_button",
+    "translation": "Yes, delete"
+  },
+  {
+    "key": "bottomsheet_delete_history_order_left_button",
+    "translation": "Cancel"
+  },
+  {
+    "key": "page_schedule_toolbar_action",
+    "translation": "Edit"
+  },
+  {
+    "key": "page_schedule_depart_indicator_title",
+    "translation": "Departure schedule"
+  },
+  {
+    "key": "page_schedule_return_indicator_title",
+    "translation": "Return schedule"
+  },
+  {
+    "key": "page_schedule_depart_title",
+    "translation": "Depart"
+  },
+  {
+    "key": "page_schedule_depart_link",
+    "translation": "Edit"
+  },
+  {
+    "key": "page_schedule_depart_price_seat",
+    "translation": "/seat"
+  },
+  {
+    "key": "page_choose_seat_toolbar_title",
+    "translation": "Choose seat"
+  },
+  {
+    "key": "page_choose_seat_depart_indicator_title",
+    "translation": "Choose departure seat"
+  },
+  {
+    "key": "page_choose_seat_return_indicator_title",
+    "translation": "Choose return seat"
+  },
+  {
+    "key": "page_schedule_filter_chip_title",
+    "translation": "Filter"
+  },
+  {
+    "key": "page_schedule_filter_shelter_departure_chip_title",
+    "translation": "Departure points"
+  },
+  {
+    "key": "page_schedule_filter_shelter_arrival_chip_title",
+    "translation": "Destination points"
+  },
+  {
+    "key": "home_carousel_title",
+    "translation": "Hai %NAME%,"
+  },
+  {
+    "key": "home_carousel_title_reschedule",
+    "translation": "Atur ulang jadwal atau ubah rute perjalanan"
+  },
+  {
+    "key": "home_carousel_desc",
+    "translation": "Let's travel more comfortably with Cititrans"
+  },
+  {
+    "key": "home_area_departure_title",
+    "translation": "From"
+  },
+  {
+    "key": "home_area_arrival_title",
+    "translation": "To"
+  },
+  {
+    "key": "home_area_info_text",
+    "translation": "Cititrans service limited to only operational"
+  },
+  {
+    "key": "home_schedule_depart_title",
+    "translation": "Departure date"
+  },
+  {
+    "key": "home_schedule_round_trip_text",
+    "translation": "Round-trip?"
+  },
+  {
+    "key": "home_schedule_return_title",
+    "translation": "Return date"
+  },
+  {
+    "key": "home_passenger_field",
+    "translation": "No. of seats"
+  },
+  {
+    "key": "home_service_field",
+    "translation": "Service type (optional)"
+  },
+  {
+    "key": "home_action_button",
+    "translation": "Search ticket"
+  },
+  {
+    "key": "home_area_last_search_title",
+    "translation": "Last Search"
+  },
+  {
+    "key": "home_area_last_search_item_title",
+    "translation": "%DEPARTURE_CITY% ⟶ %ARRIVAL_CITY%"
+  },
+  {
+    "key": "home_area_last_search_item_round_trip_title",
+    "translation": "%DEPARTURE_CITY% ⇆ %ARRIVAL_CITY%"
+  },
+  {
+    "key": "home_area_last_search_item_desc",
+    "translation": "%TOTAL_PASSENGER% pax • %SERVICE_TYPE%"
+  },
+  {
+    "key": "home_area_last_search_item_total_passenger",
+    "translation": "%TOTAL_PASSENGER% pax"
+  },
+  {
+    "key": "schedule_empty_title",
+    "translation": "Schedule not found"
+  },
+  {
+    "key": "schedule_empty_desc",
+    "translation": "Please change the filter to view other schedules"
+  },
+  {
+    "key": "schedule_empty_button",
+    "translation": "Change filter"
+  }
+]
